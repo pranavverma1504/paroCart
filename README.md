@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🛒 ONE CART COPY</h1>
+  <h1 align="center">🛒 PAROCART </h1>
   <p align="center">
     A MERN E-Commerce Platform with 🤖 AI Voice Assistant
   </p>
