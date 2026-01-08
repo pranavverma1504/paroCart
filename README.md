@@ -15,7 +15,7 @@
 
 ## ✨ Overview
 
-**ONE CART COPY** is a full-stack **MERN eCommerce application** designed for clothing stores.  
+**PARO CART ** is a full-stack **MERN eCommerce application** designed for clothing stores.  
 It features a **modern UI**, **Cloudinary-based image handling**, and an **AI Voice Assistant** that allows users to navigate the website using voice commands.
 
 This project focuses on **real-world architecture**, **scalability**, and **clean separation of frontend, backend, and admin panel**.
